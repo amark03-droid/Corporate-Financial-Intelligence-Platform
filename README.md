@@ -5,8 +5,6 @@
 
 ## 🚀 Live Demo
 
-> ## 🚀 Live Demo
-
 **Try the live application here:**
 https://corporate-financial-intelligence-platform-nnbvpdwvvysuuzvow8hw.streamlit.app/
 
